@@ -11,3 +11,13 @@
 - 📸 **Travel Journals** – Share stories, photos, and memories from your adventures.
 - 🌐 **Destination Discovery** – Explore new places through recommendations and community insights.
 - 🧭 **Social Timeline** – Follow travel feeds and get inspired by others’ journeys.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Tailwind CSS
+- **Database:** MongoDB/Firebase
+- **AI Integration:** Gemini API
+- **Real-time Communication:** Socket.io
+- **Authentication:** JWT + OAuth2 (Google)
