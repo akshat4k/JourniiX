@@ -4,6 +4,10 @@
 
 ---
 
+Video Demo
+
+https://github.com/user-attachments/assets/f4417ac5-01e9-40f1-bf85-1f5a7b2c4458
+
 ## ✨ Features
 
 - 🚀 **AI-Powered Trip Planner** – Get smart, personalized travel itineraries based on your preferences.
